@@ -9,3 +9,7 @@ function About() {
     </div>
   );
 }
+export default About;
+import { image } from "../data/user";
+
+
